@@ -1,8 +1,8 @@
-基于Minecraft源代码的教程
+跟着北山学写模组~
 =======================
 For Minecraft 1.21.x
 ---------------------
-教程地址：https://space.bilibili.com/489671468?spm_id_from=333.1007.0.0
+本人主页：www.xiaofengstu.top
 ---------------------
-By 北山_Besson
+By 枫叶穿行Jam
 ---------------------
